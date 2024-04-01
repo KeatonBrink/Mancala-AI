@@ -1,5 +1,5 @@
-# Mancala (Kalah)
-Mancala contains the PettingZoo environment and demo-agents for the 2 player board game Mancala.  See the README in ./mancala to see the installation instructions for the PettingZoo environmnet.
+# Mancala-AI (Kalah)
+Mancala-AI contains the PettingZoo environment and demo-agents for the 2 player board game Mancala.  See the README in ./mancala to see the installation instructions for the PettingZoo environmnet.
 
 ## Installation
 Install the enviornment: 
